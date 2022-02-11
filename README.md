@@ -1,6 +1,7 @@
-# HateDetector
+# HateDetector - Hack Davis 2021 Project
 
 Built By @jcarterbohan, @himshikha21 and @shraddha1803
+
 
 ## Requirements
 Compatible with Python 3.4-3.6
